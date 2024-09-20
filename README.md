@@ -1,4 +1,4 @@
-# roboSearch
+# RoboSearch
 
 To run the project:
 
